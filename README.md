@@ -14,7 +14,7 @@
 
 ## Code
 
-[TSQL Code](load_clean_summarize_voter_turnout_status.sql) - Loaded the flat files into Microsoft SQL using T-SQL BULK INSERT statements.  Cleaned up the data a little to remove duplicate entries.
+[TSQL Code](/Scripts/) - Loaded the flat files into Microsoft SQL using T-SQL BULK INSERT statements.  Cleaned up the data a little to remove duplicate entries.
 
 ## Visualizations
 
