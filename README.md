@@ -37,3 +37,7 @@
 ### Snapshot from 11/01/2024
 
 <img src="Clark_County_NV_2024_General_Election_Dashboard_Screenshot_20241101.png" alt="Dashboard as of 11/01/2024" width="600" />
+
+### Snapshot from 11/03/2024
+
+<img src="Clark_County_NV_2024_General_Election_Dashboard_Screenshot_20241103.png" alt="Dashboard as of 11/03/2024" width="600" />
